@@ -1,0 +1,22 @@
+{
+  "name": "sudo-folks-utils",
+  "version": "1.0.0",
+  "description": "utility package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudo-Folks/sudo-folks-utils.git"
+  },
+  "keywords": [
+    "Utility"
+  ],
+  "author": "Rahul Chitturi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sudo-Folks/sudo-folks-utils/issues"
+  },
+  "homepage": "https://github.com/Sudo-Folks/sudo-folks-utils#readme"
+}
